@@ -1,4 +1,4 @@
-### WebCrawler
+# WebCrawler
 
 ## Overview
 The WebCrawler is a simple Java-based web crawler designed to recursively visit web pages, extract URLs, and add them to a queue for further crawling. The crawler is built to handle a maximum number of sites, process HTTP redirects, resolve relative URLs, and ensure that the same site is not crawled multiple times.
@@ -36,7 +36,7 @@ Example: https://www.wikipedia.org/
 After the crawling process completes, the application will display the total number of sites crawled and list them in the console.
 
 ## Code Explanation
-# Main Components
+### Main Components
 * WebCrawler Class: The primary class that handles the crawling process.
     1. urlsToCrawl: A queue that holds the URLs yet to be crawled.
     2. crawledUrls: A set that keeps track of all URLs that have already been crawled.
