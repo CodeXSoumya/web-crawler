@@ -17,7 +17,7 @@ Java: Ensure that Java is installed on your system. This project was built using
 
 ## How to Run
 1. Clone the Repository:
-git clone https://github.com/yourusername/webcrawler.git
+git clone https://github.com/your-username/web-crawler.git
 
 2. Navigate to the Project Directory:
 cd webcrawler
