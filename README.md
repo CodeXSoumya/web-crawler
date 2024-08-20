@@ -20,7 +20,7 @@ Java: Ensure that Java is installed on your system. This project was built using
 git clone https://github.com/your-username/web-crawler.git
 
 2. Navigate to the Project Directory:
-cd webcrawler
+cd web-crawler/WebCrawler
 
 3. Compile the Code:
 javac -d bin src/com/soumya/spidy/WebCrawler.java
